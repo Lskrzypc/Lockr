@@ -1,4 +1,5 @@
+mod init;
 
 fn main() {
-    println!("Hello Lockr!");
+    init::init();
 }
